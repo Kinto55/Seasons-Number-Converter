@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Problem2
+comment0.text=\n\ Write\ a\ description\ of\ class\ Problem2\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=m\ d
+comment1.target=Problem2(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Problem2\n\ \n
+comment2.params=
+comment2.target=java.lang.String\ calcSeason()
+comment2.text=\n\ Curently\ writing\ if\ statments\ to\ establish\ a\ current\ season\n\ \n\ @param\ none\ \n\ @return\ \ what\ the\ season\ will\ actually\ be\n
+numComments=3

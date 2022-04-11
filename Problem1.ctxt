@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Problem1
+comment0.text=\n\ \ Problem1\ here\ with\ commas,\ hundreds\ and\ thousands.\n\n\ @author\ (Markintus\ MOrris)\n\ @version\ (4-18-21)\n
+comment1.params=v
+comment1.target=Problem1(int)
+comment1.text=\n\ This\ currently,\ Establishes\ v\ as\ an\ argument\n
+comment2.params=
+comment2.target=java.lang.String\ addComma()
+comment2.text=\n\ \n\ adding\ commas\ to\ numbers\ \n\ \n\ @param\ none\n\ @return\ \ number\ with\ comma\n
+numComments=3
